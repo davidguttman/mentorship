@@ -11,9 +11,9 @@
   Achieve your goals by connecting with Node.js members and projects.
 </p>
 
-## 🚀 Get Started
+## 🚀 Get Involved
 
-To get involved sign up for the [Node Slackers](https://www.nodeslackers.com) workspace and join the #mentorship channel. All announcements will be posted there first.
+To get involved sign up for the [Node Slackers](https://www.nodeslackers.com) workspace and join the #mentorship channel. All announcements and opportunities will be posted there first. 
 
 ### General Mentorship Details
 
